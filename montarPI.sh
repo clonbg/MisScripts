@@ -1,0 +1,1 @@
+sshfs pi@192.168.1.134:/home/pi /home/clonbg/.Pi
