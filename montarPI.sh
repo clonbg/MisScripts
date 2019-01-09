@@ -1,1 +1,1 @@
-sshfs pi@192.168.1.134:/home/pi /home/clonbg/.Pi
+sshfs dietpi@192.168.1.34:/home/dietpi /home/clonbg/.Pi
