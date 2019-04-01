@@ -1,0 +1,1 @@
+sudo systemctl start docker && sleep 2 && sudo kitematic && sudo systemctl stop docker &
